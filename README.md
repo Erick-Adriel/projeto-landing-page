@@ -1,2 +1,2 @@
 # projeto-landing-page
-projeto de desenvolvimento base 
+projeto de desenvolvimento base da Escola de formação DNC
